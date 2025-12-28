@@ -1,0 +1,6 @@
+/workspaces/homework2/user-service/src/main/java/com/example/userservice/service/UserService.java
+/workspaces/homework2/user-service/src/main/java/com/example/userservice/controller/GlobalErrorController.java
+/workspaces/homework2/user-service/src/main/java/com/example/userservice/dto/AddressDTO.java
+/workspaces/homework2/user-service/src/main/java/com/example/userservice/controller/UserController.java
+/workspaces/homework2/user-service/src/main/java/com/example/userservice/client/AddressServiceClient.java
+/workspaces/homework2/user-service/src/main/java/com/example/userservice/UserServiceApplication.java

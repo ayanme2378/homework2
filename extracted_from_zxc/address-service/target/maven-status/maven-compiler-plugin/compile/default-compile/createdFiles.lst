@@ -1,0 +1,5 @@
+com/example/addressservice/AddressServiceApplication.class
+com/example/addressservice/controller/AddressController.class
+com/example/addressservice/controller/GlobalErrorController.class
+com/example/addressservice/entity/Address.class
+com/example/addressservice/service/AddressService.class
